@@ -13,4 +13,3 @@ Fornecer o conhecimento necessário para identificarmos através dos dados padr�
 
 **Ambiente de Desenvolvimento e Operação:** <br/>
 Fornecer o conhecimento a respeito de ferramentas que nos permita manter o versionamento de todo nosso sistema, de maneira que isso traga para nós mais confiabilidade, segurança e estabilidade ao sistema, ao mesmo tempo que nos trás agilidade, pois permite trabalharmos em grupos ao mesmo tempo, sem risco de que conflitos no sistema acabe atrasando ou danificando o projeto como um tudo.
-
